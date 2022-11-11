@@ -26,5 +26,5 @@ These are some of the technologies and tools that I work with:
 
 
 <a href="https://github.com/cairogr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cairogr&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cairogr&layout=compact&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cairogr&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cairogr&layout=compact&theme=midnight-purple"/>

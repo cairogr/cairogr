@@ -23,3 +23,7 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+[![](https://github-readme-stats.vercel.app/api?username=cairogr&count_private=true&show_icons=true&contribs,prs&cache_seconds=86400&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![cairogr](https://github-readme-stats.vercel.app/api/top-langs/?username=cairogr&layout=compact&theme=midnight-purple) ](https://github.com/anuraghazra/github-readme-stats) 

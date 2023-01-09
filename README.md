@@ -1,6 +1,6 @@
 ### Hello
 
-My name is Cairo Ribeiro. Developer Node.js | Java, Telecommunications Engineer Passionate for innovation, programming and technology. 
+My name is Cairo Ribeiro. Developer Node.js | Java, Telecommunications Engineer, passionate for innovation, programming and technology. 
 
 [![Linkedin: Cairo Ribeiro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cairoribeiro)](https://www.linkedin.com/in/cairoribeiro/)
 
